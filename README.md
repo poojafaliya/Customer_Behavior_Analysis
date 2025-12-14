@@ -54,6 +54,9 @@ This project delivers meaningful insights that can help businesses:
 - Increase customer retention
 - Optimize product and shipping strategies
 
+  <img width="1384" height="757" alt="Screenshot 2025-12-14 185045" src="https://github.com/user-attachments/assets/6e334635-64c5-414c-aba6-56f484a4ae49" />
+
+
 ## 👤 Author
 [Pooja Faliya] Data Analyst | Python & SQL Enthusiast | Power BI Learner
 
